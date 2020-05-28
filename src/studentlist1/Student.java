@@ -3,11 +3,10 @@ package studentlist1;
 /**
  *
  *
- * @author Josh Cowan -- May 2020
+ * @author Joshua Cowan
  */
 public class Student
 {
-
     private String name;
     private String numOfHours;
 
