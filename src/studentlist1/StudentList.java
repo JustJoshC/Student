@@ -23,7 +23,8 @@ public class StudentList
         
         for(Student s:sList)
         {
-            System.out.println("Student name is: "+ s.getName());
+            System.out.println("Student name is: "
+                    + s.getName());
             
         }
     }
