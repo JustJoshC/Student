@@ -7,7 +7,7 @@ package studentlist1;
 
 /**
  *
- * @author josh_
+ * @author Josh Cowan -- May 2020
  */
 public class Student{
 
